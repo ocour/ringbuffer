@@ -1,2 +1,2 @@
 # ringbuffer
-C ringbuffer
+Ringbuffer created using C.
